@@ -1,5 +1,5 @@
 # Build time container.
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 # Don't ask questions.
 ENV DEBIAN_FRONTEND=noninteractive
